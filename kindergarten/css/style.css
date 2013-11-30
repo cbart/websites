@@ -89,4 +89,10 @@ body {
   padding-bottom: .5em;
   list-style: none;
 }
+
+.c4logo {
+  margin: 0 0 .5em .5em;
+  width: 103px;
+  height: 103px;
+  float: right;
 }
